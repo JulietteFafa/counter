@@ -1,1 +1,23 @@
 /* Other rules */
+.masomenos {
+  display: flex;
+  justify-content: center;
+  gap: 20 px;
+}
+
+.counter {
+  height: 43px;
+  width: 43px;
+  background-color: blueviolet;
+  border: black solid 1px;
+  border-radius: 30%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.reset {
+  display: flex;
+  justify-content: center;
+}
